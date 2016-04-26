@@ -1,0 +1,1 @@
+..\..\.nuget\nuget.exe pack ..\WebApiRestService.csproj -Properties Configuration=Release

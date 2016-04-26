@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>$id$</id>
+    <version>$version$</version>
+    <title>$title$</title>
+    <authors>$author$</authors>
+    <owners>andreoromera</owners>
+    <licenseUrl>http://webapiclient.azurewebsites.net/license.txt</licenseUrl>
+    <projectUrl>http://webapiclient.azurewebsites.net</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <summary>
+		  This package provides a programming interface for accessing a HTTP REST service
+	  </summary>
+	  <description>
+      WebApiClient is a simple and powerful .NET Portable Library built to work as a middle layer between your application and a RESTFul service, like the Microsoft WebApi. 
+      
+      It provides methods to make asynchronous, typed WebApi requests using the HttpClient class.
+      
+      It takes care of all the logic to create the request, wait for the response, handle exceptions and convert the response into an object, leaving you free of writing repetitive code.
+
+      Supported Platforms:
+      - .NET Framework 4.5
+      - Windows 8 Apps
+      - Windows Phone Silverlight 8
+    </description>
+    <copyright>$copyright$</copyright>
+    <tags>webapiclient rest restful webapi service portable asynchronous httpclient generic</tags>
+  </metadata>
+</package>

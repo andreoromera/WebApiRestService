@@ -1,0 +1,14 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/packages
+/WebApiRestService/bin/Debug
+/WebApiRestService/obj/Debug
+/WebApiRestService.Api/bin
+/WebApiRestService.Api/obj/Debug
+/WebApiRestService.Dto/bin/Debug
+/WebApiRestService.Dto/obj/Debug
+/WebApiRestService.Tests/bin/Debug
+/WebApiRestService.Tests/obj/Debug
